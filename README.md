@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @woorho2050
 - 👀 I’m interested in urban science.
 - 🌱 I’m currently learning R language and other basic programming skills.
-- 💞️ I’m looking to collaborate on <TBD>.
 - 📫 How to reach me ... Just mail me!
 
 <!---
